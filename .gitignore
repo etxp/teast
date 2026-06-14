@@ -1,0 +1,9 @@
+﻿vault.json
+vault.dat
+dist/vault.dat
+build/
+__pycache__/
+*.pyc
+*.spec
+dist/*
+!dist/PasswordVault.exe
